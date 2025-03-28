@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"="width=device-width,initial-scale=1.0">
+<title>My First Webpage</title>
+</head>
+<body><h1> Welcome to My Webpage</h1>
+<!--Your Content goes here --> <imgsrc>=https://images.search.yahoo.com/search/images;_ylt=AwrFF7LhAudnNVcdS0qJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDaVcuc2VUeDNTRHVQZk1VNkdTdnlMQQRuX3JzbHQDMARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAM1BHF1ZXJ5A09jZWFuBHRfc3RtcAMxNzQzMTkyODU5?p=Ocean&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US885G91645
+alt="ocean picture">
+</body><p> This is my first HTML webpage,and I am learning how to code!</p>
+</html>
